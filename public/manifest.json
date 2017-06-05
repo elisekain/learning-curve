@@ -1,15 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Learning Curve",
+  "name": "Learning Curve",
   "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
+      {
+        "src": "icons/lc-icon-1x.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "icons/lc-icon-2x.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "icons/lc-icon-4x.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#5d536b",
+  "background_color": "#fefdfb"
 }
